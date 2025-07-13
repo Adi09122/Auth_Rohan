@@ -16,17 +16,17 @@
         },
         {
             "username": "Vb",
-            "password": "$2y$12$ZhlWU4/JXtsfoNWOgqJe4Oa/LpFP4ZAlcwHxriF5fiZRcpTi8uDRq",
+            "password": "$2y$12$ZhlWU4\/JXtsfoNWOgqJe4Oa\/LpFP4ZAlcwHxriF5fiZRcpTi8uDRq",
             "subscription": "aimkillapk",
             "expiry": "2025-10-20",
             "device_id": ""
         },
         {
             "username": "Adii",
-            "password": "$2y$12$tx1WaOonQQyGEtx71dd5BeZL7yNaA9uGM.XAKCB1dx3vj2KRg3x/q",
+            "password": "$2y$12$tx1WaOonQQyGEtx71dd5BeZL7yNaA9uGM.XAKCB1dx3vj2KRg3x\/q",
             "subscription": "aimkillapk",
             "expiry": "2028-04-07",
-            "device_id": ""
+            "device_id": "0ae19c659d253615"
         }
     ]
 }

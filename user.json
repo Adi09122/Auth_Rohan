@@ -20,6 +20,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-10-20",
             "device_id": ""
+        },
+        {
+            "username": "Adii",
+            "password": "$2y$12$X6j0yHO1vIUpx9/HlA0d9ePwzbrqF9.tlFq1Obzjj.bmQ6I/8wt6S",
+            "subscription": "aimkillapk",
+            "expiry": "2028-04-07",
+            "device_id": ""
         }
     ]
 }

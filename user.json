@@ -16,17 +16,24 @@
         },
         {
             "username": "Vb",
-            "password": "$2y$12$ZhlWU4\/JXtsfoNWOgqJe4Oa\/LpFP4ZAlcwHxriF5fiZRcpTi8uDRq",
+            "password": "$2y$12$ZhlWU4/JXtsfoNWOgqJe4Oa/LpFP4ZAlcwHxriF5fiZRcpTi8uDRq",
             "subscription": "aimkillapk",
             "expiry": "2025-10-20",
             "device_id": ""
         },
         {
             "username": "Adii",
-            "password": "$2y$12$X6j0yHO1vIUpx9\/HlA0d9ePwzbrqF9.tlFq1Obzjj.bmQ6I\/8wt6S",
+            "password": "$2y$12$X6j0yHO1vIUpx9/HlA0d9ePwzbrqF9.tlFq1Obzjj.bmQ6I/8wt6S",
             "subscription": "aimkillapk",
             "expiry": "2028-04-07",
             "device_id": "bd226ed92c20d5f1"
+        },
+        {
+            "username": "Adin",
+            "password": "139f7c6a1254b02568fb120ab0ebb498:9649e93f9288e1ac403fd690084669c4de2004b2fe817976e3660fb6c8d514db1469361bbf42b9f38ca58485bc1ef79612c6d8bbe7a11894e6bc0ed09494aead",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-20",
+            "device_id": ""
         }
     ]
 }

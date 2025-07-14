@@ -34,6 +34,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-10-20",
             "device_id": ""
+        },
+        {
+            "username": "BKL",
+            "password": "b022e2648fe623855829acd4bad003f1:ef07fe9be3b8af9524e2a22f350a83dd72f82eb5f3acb32cc09dcd8f49f67b81f61a2cb50b7d935eb8a081a35ce14b9b35702667d162a302a5f3a2b135909ce9",
+            "subscription": "aimkillapk",
+            "expiry": "2028-04-07",
+            "device_id": ""
         }
     ]
 }

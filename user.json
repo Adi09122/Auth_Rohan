@@ -53,6 +53,12 @@
             "subscription": "premium",
             "expiry": "2025-07-15",
             "device_id": "37c4d9d36b362320"
+        },
+        {
+            "license_key": "9UM791XJ4SHGHD1U",
+            "subscription": "premium",
+            "expiry": "2025-07-18",
+            "device_id": ""
         }
     ]
 }

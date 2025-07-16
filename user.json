@@ -131,6 +131,12 @@
             "subscription": "premium",
             "expiry": "2025-07-18",
             "device_id": ""
+        },
+        {
+            "license_key": "7DL88285G1KNY3GJ",
+            "subscription": "premium",
+            "expiry": "2025-07-19",
+            "device_id": ""
         }
     ]
 }

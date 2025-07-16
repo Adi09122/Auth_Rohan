@@ -113,6 +113,12 @@
             "subscription": "premium",
             "expiry": "2025-07-17",
             "device_id": ""
+        },
+        {
+            "license_key": "PJGW338021QTQ922",
+            "subscription": "premium",
+            "expiry": "2025-07-17",
+            "device_id": ""
         }
     ]
 }

@@ -16,14 +16,14 @@
         },
         {
             "username": "Vb",
-            "password": "$2y$12$ZhlWU4\/JXtsfoNWOgqJe4Oa\/LpFP4ZAlcwHxriF5fiZRcpTi8uDRq",
+            "password": "$2y$12$ZhlWU4/JXtsfoNWOgqJe4Oa/LpFP4ZAlcwHxriF5fiZRcpTi8uDRq",
             "subscription": "aimkillapk",
             "expiry": "2025-10-20",
             "device_id": ""
         },
         {
             "username": "Adii",
-            "password": "$2y$12$X6j0yHO1vIUpx9\/HlA0d9ePwzbrqF9.tlFq1Obzjj.bmQ6I\/8wt6S",
+            "password": "$2y$12$X6j0yHO1vIUpx9/HlA0d9ePwzbrqF9.tlFq1Obzjj.bmQ6I/8wt6S",
             "subscription": "aimkillapk",
             "expiry": "2028-04-07",
             "device_id": "bd226ed92c20d5f1"
@@ -136,6 +136,12 @@
             "license_key": "7DL88285G1KNY3GJ",
             "subscription": "premium",
             "expiry": "2025-07-19",
+            "device_id": ""
+        },
+        {
+            "license_key": "703ZO7SHQOSTESWJ",
+            "subscription": "premium",
+            "expiry": "2025-07-20",
             "device_id": ""
         }
     ]
